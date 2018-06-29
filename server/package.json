@@ -1,0 +1,19 @@
+{
+  "name": "jwt-to-angular6",
+  "version": "1.0.0",
+  "description": "jwt test to talk with angular6",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "shmulikmak",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "express-jwt": "^5.3.1",
+    "jsonwebtoken": "^8.3.0",
+    "lodash": "^4.17.10"
+  }
+}
